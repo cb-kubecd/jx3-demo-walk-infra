@@ -5,4 +5,4 @@ gsm = true
 apex_domain = "jenkinsxlabs.com"
 subdomain   = "walk"
 lets_encrypt_production = true
-tls_email               = rawlingsj80gmail.com
+tls_email               = "rawlingsj80gmail.com"
